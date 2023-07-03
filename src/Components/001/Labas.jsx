@@ -1,6 +1,12 @@
 function Labas() {
     return (
-        <h1> LABAS, ZUIKI ! </h1>
+        <h1 style=
+            {
+                {
+                    color: 'pink'
+                }
+            }
+        > LABAS, ZUIKI ! </h1>
     );
 }
 
